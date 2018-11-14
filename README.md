@@ -1,2 +1,2 @@
 # primer_repo_github
-siguiendo tutorial
+siguiendo tutorial, esto lo modifique en local
